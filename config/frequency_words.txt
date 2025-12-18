@@ -1,16 +1,5 @@
-胖东来
-于东来
-
 DeepSeek
 梁文锋
-
-华为
-鸿蒙
-HarmonyOS
-任正非
-
-比亚迪
-王传福
 
 大疆
 DJI
@@ -18,39 +7,9 @@ DJI
 宇树
 王兴兴
 
-智元
-灵犀
-稚晖君
-彭志辉
-
-黑神话
-冯骥
-
-影之刃零
-梁其伟
-
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
 字节
 bytedance
 张一鸣
-
-特斯拉
-马斯克
 
 微软
 Microsoft
@@ -73,11 +32,6 @@ sora
 claude
 Anthropic
 
-iphone
-ipad
-mac
-ios
-
 ai
 !gai
 人工智能
@@ -86,28 +40,242 @@ ai
 
 机器人
 
-国产
-中国
+李飞飞
 
-美国
-日本
-韩国
+3D human motion generation
 
-芯片
-光刻机
+human motion synthesis
 
-科技
+character animation
 
-核能
+motion capture
 
-水电站
-雅鲁藏布江
+Mocap
 
-新质生产力
+physics-based animation
 
-月球
-登月
-火星
-宇宙
-飞船
-航空
+human pose estimation
+
+controllable human motion
+
+text-to-motion
+
+text to motion
+
+motion prediction
+
+3D generation
+
+3D synthesis
+
+text-to-3D
+
+text to 3D
+
+image-to-3D
+
+image to 3D
+
+3D reconstruction
+
+mesh generation
+
+mesh segmentation
+
+3D segmentation
+
+point cloud segmentation
+
+novel view synthesis
+
+NeRF
+
+Neural Radiance Fields
+
+3D Gaussian Splatting
+
+3DGS
+
+differentiable rendering
+
+AIGC
+
+Generative AI
+
+diffusion models
+
+denoising diffusion
+
+DDPM
+
+score-based models
+
+generative models
+
+world model
+
+world models
+
+video prediction
+
+model-based reinforcement learning
+
+MBRL
+
+generative world model
+
+3D diffusion
+
+motion diffusion
+
+diffusion motion model
+
+generative 3D
+
+3D generative models
+
+generative mesh
+
+mesh diffusion
+
+3D-aware generation
+
+human motion diffusion
+
+3D world model
+
+generative video model
+
+human-centric world model
+
+controllable 3D generation
+
+generative 3D avatars
+
+3D数字人
+
+3D人体
+
+3D角色
+
+动作生成
+
+运动生成
+
+运动合成
+
+动作捕捉
+
+动捕
+
+物理仿真
+
+物理模拟
+
+姿态估计
+
+可控生成
+
+文本到动作
+
+Text-to-Motion
+
+运动预测
+
+3D生成
+
+3D合成
+
+文本到3D
+
+Text-to-3D
+
+图像到3D
+
+Image-to-3D
+
+3D重建
+
+Mesh生成
+
+网格生成
+
+Mesh分割
+
+网格分割
+
+3D分割
+
+点云分割
+
+新视角合成
+
+NeRF
+
+神经辐射场
+
+3D高斯溅射
+
+3D Gaussian Splatting
+
+可微渲染
+
+AIGC
+
+生成式AI
+
+扩散模型
+
+Diffusion
+
+DDPM
+
+分数基模型
+
+生成模型
+
+世界模型
+
+World Model
+
+视频预测
+
+模型基强化学习
+
+MBRL
+
+生成式世界模型
+
+3D扩散
+
+3D Diffusion
+
+运动扩散
+
+动作扩散
+
+生成式3D
+
+3D生成模型
+
+Mesh扩散
+
+生成式Mesh
+
+3D感知生成
+
+人体运动扩散
+
+3D世界模型
+
+生成式视频模型
+
+以人为中心的世界模型
+
+可控3D生成
+
+生成式3D虚拟人
+
+linux
+
+操作系统
